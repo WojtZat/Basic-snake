@@ -35,7 +35,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Game</mainClass>
+                            <mainClass>Program</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
